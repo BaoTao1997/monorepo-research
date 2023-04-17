@@ -1,0 +1,2 @@
+# monorepo-research
+调研现有的Monorepo技术以及一些基础Demo，为后续组件库以及相应多包需求的指导方案
